@@ -1,5 +1,10 @@
 <script>
+	import { onMount } from 'svelte';
   import {page} from '$app/stores'
+  let todo = null;
+  onMount(async () => {
+
+  })
 </script>
 
 <h1>
