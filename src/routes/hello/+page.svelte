@@ -7,7 +7,7 @@
   })
 </script>
 
-<h1>
+<h1 class="text-3xl font-bold underline">
   Hi Jonathan 😎
 </h1>
 
